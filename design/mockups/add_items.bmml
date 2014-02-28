@@ -1,0 +1,103 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="973" measuredH="621" mockupW="868" mockupH="590">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="105" y="31" w="868" h="590" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>My%20Family%20Adventure%21%0Ahttp%3A//adventure.waynewerner.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::TextInput" x="391" y="208" w="166" h="-1" measuredW="102" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cool%20new%20thing</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="391" y="187" w="-1" h="-1" measuredW="26" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Title</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="583" y="187" w="-1" h="-1" measuredW="77" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cost%20%28Stars%29%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::TextInput" x="583" y="208" w="45" h="-1" measuredW="30" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>25</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::HSlider" x="583" y="241" w="-1" h="-1" measuredW="33" measuredH="11" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <value>29</value>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Button" x="484" y="415" w="-1" h="-1" measuredW="195" measuredH="40" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <menuIcon>false</menuIcon>
+        <size>32</size>
+        <text>Add%20Reward</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::List" x="111" y="192" w="203" h="126" measuredW="100" measuredH="126" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Gauntlet...%20of%20DOOM%21%20%2850%20s%29%0AWalkie%20Talkie...%20of%20DOOM%21%20%28200%20s%29%0APiece%20o%27%20Cake%20%285%20s%29%0AExtra%20Item%20Slot%20%28400%20s%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Label" x="111" y="175" w="-1" h="-1" measuredW="119" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Existing%20Adventures</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::IconLabel" x="328" y="178" w="-1" h="-1" measuredW="48" measuredH="63" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Badge</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="703" y="252" w="-1" h="-1" measuredW="97" measuredH="105" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%5B%20%5D%20Frobnostica%0A%5Bx%5D%20Zanzubar%0A%5Bx%5D%20Fusty%20Dusty%0A%5Bx%5D%20Fancy%20Pants%0A%5B%20%5D%20Fnordy%20Pants</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Label" x="688" y="235" w="-1" h="-1" measuredW="86" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Can%20Purchase%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Label" x="391" y="258" w="-1" h="-1" measuredW="55" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Effect%28s%29%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="400" y="279" w="-1" h="-1" measuredW="132" measuredH="61" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%5Bx%5D%20Artifact%20%28No%20effect%29%0A%5B%20%5D%20Multiplier%0A%5B%20%5D%20Duration</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::ComboBox" x="475" y="297" w="-1" h="-1" measuredW="128" measuredH="24" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Fight%20the%20Dragon</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::TextInput" x="628" y="296" w="45" h="-1" measuredW="23" measuredH="27" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>disabled</state>
+        <text>2</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Label" x="616" y="299" w="-1" h="-1" measuredW="10" measuredH="21" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>X</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::TextInput" x="475" y="323" w="-1" h="-1" measuredW="27" measuredH="27" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>disabled</state>
+        <text>15</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::ComboBox" x="509" y="324" w="-1" h="-1" measuredW="75" measuredH="24" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Forever</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

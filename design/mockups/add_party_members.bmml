@@ -1,0 +1,109 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="959" measuredH="620" mockupW="868" mockupH="590">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="91" y="30" w="868" h="590" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>My%20Family%20Adventure%21%0Ahttp%3A//adventure.waynewerner.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="__group__" x="280" y="323" w="505" h="84" measuredW="505" measuredH="84" zOrder="1" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="505" measuredH="21" zOrder="0" locked="false" isInGroup="9">
+          <controlProperties>
+            <text>A%20party%20is%20no%20party%20without%20some%20heroes%20to%20go%20on%20an%20adventure%21%20Add%20your%20heroes%20here%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="36" w="-1" h="-1" measuredW="38" measuredH="21" zOrder="1" locked="false" isInGroup="9">
+          <controlProperties>
+            <text>Name%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::TextInput" x="0" y="57" w="204" h="-1" measuredW="79" measuredH="27" zOrder="2" locked="false" isInGroup="9">
+          <controlProperties>
+            <text>Frobnistica</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="214" y="57" w="-1" h="-1" measuredW="76" measuredH="27" zOrder="3" locked="false" isInGroup="9">
+          <controlProperties>
+            <href>adding_more_heroes%26bm%3Badding_more_heroes.bmml%26bm%3Badding_more_heroes.bmml%26bm%3Badding_more_heroes.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22403%2C350%2C479%2C377%22%20href%3D%22adding_more_heroes.bmml%22%20alt%3D%22adding_more_heroes%22%20id%3D%223%22/%3E</map>
+            <text>Add%20Hero</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::CheckBox" x="305" y="59" w="-1" h="-1" measuredW="137" measuredH="22" zOrder="4" locked="false" isInGroup="9">
+          <controlProperties>
+            <state>selected</state>
+            <text>Is%20Leader%20%28Parent%29%3F</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="14" controlTypeID="__group__" x="253" y="140" w="529" h="71" measuredW="529" measuredH="71" zOrder="2" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="2" w="-1" h="-1" measuredW="501" measuredH="21" zOrder="0" locked="false" isInGroup="14">
+          <controlProperties>
+            <text>To%20safeguard%20your%20account%2C%20add%20a%20pass%20phrase%20such%20as%20%27correct%20horse%20battery%20staple%27</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::TextInput" x="0" y="44" w="183" h="-1" measuredW="118" measuredH="27" zOrder="1" locked="false" isInGroup="14">
+          <controlProperties>
+            <text>*****************</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="0" y="23" w="-1" h="-1" measuredW="71" measuredH="21" zOrder="2" locked="false" isInGroup="14">
+          <controlProperties>
+            <text>Passphrase%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="198" y="44" w="-1" h="-1" measuredW="141" measuredH="27" zOrder="3" locked="false" isInGroup="14">
+          <controlProperties>
+            <text>Change%20passphrase</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Icon" x="505" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="4" locked="false" isInGroup="14">
+          <controlProperties>
+            <icon>ReloadIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="15" controlTypeID="__group__" x="253" y="233" w="348" h="69" measuredW="348" measuredH="69" zOrder="3" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="0" y="21" w="183" h="48" measuredW="183" measuredH="48" zOrder="0" locked="false" isInGroup="15">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::TextInput" x="0" y="21" w="183" h="-1" measuredW="39" measuredH="27" zOrder="0" locked="false" isInGroup="0">
+              <controlProperties>
+                <text>****</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="22" measuredH="21" zOrder="1" locked="false" isInGroup="0">
+              <controlProperties>
+                <text>PIN</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="348" measuredH="21" zOrder="1" locked="false" isInGroup="15">
+          <controlProperties>
+            <text>As%20a%20simple%20guard%20for%20your%20admin%20screen%2C%20add%20a%204-digit%20pin%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="198" y="42" w="-1" h="-1" measuredW="94" measuredH="27" zOrder="2" locked="false" isInGroup="15">
+          <controlProperties>
+            <text>Change%20PIN</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::StickyNote" x="100" y="242" w="109" h="143" measuredW="109" measuredH="123" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Need%20to%20update%20this%20thing%2C%20so%20it%20has%20add%20XXX%20button/menu/links</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::StickyNote" x="740" y="169" w="109" h="79" measuredW="109" measuredH="123" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>11982760</color>
+        <text>Need%20to%20add%20email%20address</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
